@@ -23,8 +23,9 @@ This is a **full-stack job portal web application** built using **React.js, Node
 
 ## Screenshots
 ![Login Page](login.png)  
-![Job Listing](job-listing.png)  
-![Application Form](application-form.png)
+![Register Page](register.png)  
+![Job Listing](home.png)  
+![Application Form](jobapply.png)
 
 ## Future Enhancements
 - Add **email notifications** for recruiters and candidates.  
